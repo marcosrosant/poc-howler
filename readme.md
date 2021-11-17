@@ -4,9 +4,6 @@ A Blazor JSInterop wrapper for [Howler.js](https://howlerjs.com/).
 
 [![NuGet: Howler.Blazor](https://buildstats.info/nuget/Howler.Blazor)](https://www.nuget.org/packages/Howler.Blazor)
 
-### Live Demo
-https://stefh.github.io/Howler.Blazor
-
 ### Usage
 
 #### Install the NuGet
@@ -104,9 +101,3 @@ public void ConfigureServices(IServiceCollection services)
 
 #### Example Page
 ![Blazor-WebDAV-AudioPlayer](https://raw.githubusercontent.com/StefH/WebDAV-AudioPlayer/master/resources/example.png "example")
-
-
-#### Example project
-See
-- https://github.com/StefH/WebDAV-AudioPlayer/tree/master/src/Blazor-WebDAV-AudioPlayer.v2
-- https://github.com/StefH/WebDAV-AudioPlayer#blazor-ui-screenshot
